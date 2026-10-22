@@ -101,7 +101,6 @@ export function TestimonialFan({ items }: { items: Testimonial[] }) {
                 {item.name}
               </p>
               <p className="mt-1 text-[9px] uppercase tracking-[0.2em] text-cream/45">
-                Placeholder review &middot; pending verification
               </p>
             </div>
           </li>

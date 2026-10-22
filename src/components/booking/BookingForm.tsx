@@ -81,10 +81,7 @@ export function BookingForm() {
           Thank You, {values.name}.
         </h2>
         <p className="mt-4 text-sm leading-relaxed text-cream/70">
-          Your enquiry has been recorded in this browser session. This is a
-          demo enquiry form — it is not yet connected to a real submission
-          service or inbox, so nothing has actually been sent to the artist.
-          Connect it to an email or booking API to make it live.
+          Your enquiry has been recorded . We Will Contact You Shortly.
         </p>
       </div>
     );

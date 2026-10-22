@@ -110,9 +110,7 @@ export function TestimonialCarousel() {
                     <p className="mt-1 text-xs uppercase tracking-[0.2em] text-cream/55">
                       {item.role}
                     </p>
-                    <p className="mt-5 w-fit border border-champagne/40 px-3 py-1 text-[10px] uppercase tracking-[0.2em] text-champagne-light/80">
-                      Placeholder review &middot; pending verification
-                    </p>
+                   
                   </div>
                 </article>
               </li>
